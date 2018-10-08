@@ -8,7 +8,6 @@ int main ()
     setlocale(LC_ALL,"");
     int i, cod, codMenor, codMaior;
     float peso, pesoMenor, pesoMaior;
-
     for (i=0;i<=3;i++)
     {
     printf("Digite o número de identificação: \n");
